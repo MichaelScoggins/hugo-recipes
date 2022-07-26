@@ -2,9 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://michaelscoggins.github.io/hugo-recipes/categories/</loc>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/flickr-feed/</loc>
+    <lastmod>2022-07-25T02:30:03-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-ceasar-salad-on-a-stick/</loc>
+    <lastmod>2022-07-24T17:21:27-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/dinner/</loc>
+    <lastmod>2022-07-24T17:21:27-05:00</lastmod>
   </url><url>
     <loc>http://michaelscoggins.github.io/hugo-recipes/</loc>
+    <lastmod>2022-07-24T17:21:27-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/dinner/fruit-dip/</loc>
+    <lastmod>2022-07-24T17:21:14-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-and-waffles/</loc>
+    <lastmod>2022-07-24T17:21:06-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/lunch/grilled-chicken-salad-sandwich/</loc>
+    <lastmod>2022-07-24T17:20:44-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/lunch/</loc>
+    <lastmod>2022-07-24T17:20:44-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/lunch/banh-mi/</loc>
+    <lastmod>2022-07-24T17:20:27-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/lunch/spicy-grilled-cheese/</loc>
+    <lastmod>2022-07-24T17:19:29-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/breakfast/</loc>
+    <lastmod>2022-07-23T07:40:48-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/breakfast/joys-easy-banana-bread/</loc>
+    <lastmod>2022-07-23T07:40:48-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/breakfast/perfect-summer-fruit-salad/</loc>
+    <lastmod>2022-07-23T07:40:13-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/breakfast/classic-waffles/</loc>
+    <lastmod>2022-07-23T07:39:41-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/search/search-results/</loc>
+    <lastmod>2022-07-23T07:39:13-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/search/</loc>
+    <lastmod>2022-07-23T07:39:13-05:00</lastmod>
+  </url><url>
+    <loc>http://michaelscoggins.github.io/hugo-recipes/categories/</loc>
   </url><url>
     <loc>http://michaelscoggins.github.io/hugo-recipes/tags/</loc>
   </url>

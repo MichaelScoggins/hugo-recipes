@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunches on Recipes</title>
+    <link>http://michaelscoggins.github.io/hugo-recipes/lunch/</link>
+    <description>Recent content in Lunches on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mike Scoggins - All rights reserved</copyright>
+    <lastBuildDate>Sun, 24 Jul 2022 17:20:44 -0500</lastBuildDate><atom:link href="http://michaelscoggins.github.io/hugo-recipes/lunch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grilled Chicken Salad Sandwich</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/lunch/grilled-chicken-salad-sandwich/</link>
+      <pubDate>Sun, 24 Jul 2022 17:20:44 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/lunch/grilled-chicken-salad-sandwich/</guid>
+      <description>Original recipe yields 4 servings
+Ingredients Directions 1 cup mayonnaise Step 1 ⅛ teaspoon ground black pepper Whisk together 1 cup of mayonnaise, pepper, garlic powder, and celery salt until combined.</description>
+    </item>
+    
+    <item>
+      <title>Banh Mi</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/lunch/banh-mi/</link>
+      <pubDate>Sun, 24 Jul 2022 17:20:27 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/lunch/banh-mi/</guid>
+      <description>Original recipe yields 2 servings
+Ingredients Directions ½ cup rice vinegar Step 1 ¼ cup white sugar Combine rice vinegar, sugar, and water in a saucepan.</description>
+    </item>
+    
+    <item>
+      <title>Spicy Grilled Cheese</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/lunch/spicy-grilled-cheese/</link>
+      <pubDate>Sun, 24 Jul 2022 17:19:29 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/lunch/spicy-grilled-cheese/</guid>
+      <description>Original recipe yields 2 servings
+Ingredients Directions - 2 tablespoons butter or margarine Heat a large skillet over low heat. - 4 slices white bread Spread butter or margarine onto one side of two slices of bread.</description>
+    </item>
+    
+  </channel>
+</rss>

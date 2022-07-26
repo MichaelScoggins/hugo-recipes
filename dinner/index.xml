@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinners on Recipes</title>
+    <link>http://michaelscoggins.github.io/hugo-recipes/dinner/</link>
+    <description>Recent content in Dinners on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mike Scoggins - All rights reserved</copyright>
+    <lastBuildDate>Sun, 24 Jul 2022 17:21:27 -0500</lastBuildDate><atom:link href="http://michaelscoggins.github.io/hugo-recipes/dinner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicken Ceasar Salad on a Stick</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-ceasar-salad-on-a-stick/</link>
+      <pubDate>Sun, 24 Jul 2022 17:21:27 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-ceasar-salad-on-a-stick/</guid>
+      <description>Original recipe yields 8 servings
+Ingredients Directions 8 croutons Step 1 8 (1-inch) wedges romaine lettuce Thread a crouton, romaine lettuce wedge, chicken cube, and Parmesan cheese cube onto each toothpick, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Fruit Dip</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/dinner/fruit-dip/</link>
+      <pubDate>Sun, 24 Jul 2022 17:21:14 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/dinner/fruit-dip/</guid>
+      <description>Original recipe yields 24 servings
+Ingredients Directions 8 ounces cream cheese Step 1 ½ cup marshmallow creme Blend together the cream cheese, marshmallow cream and thawed topping.</description>
+    </item>
+    
+    <item>
+      <title>Chicken and Waffles</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-and-waffles/</link>
+      <pubDate>Sun, 24 Jul 2022 17:21:06 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/dinner/chicken-and-waffles/</guid>
+      <description>Original recipe yields 4 servings
+Ingredients Directions 4 eggs Step 1 ¼ cup heavy cream Whisk together the eggs, cream, cayenne pepper, 1 tablespoon salt, and black pepper in a large bowl.</description>
+    </item>
+    
+  </channel>
+</rss>

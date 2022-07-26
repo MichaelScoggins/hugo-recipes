@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakfasts on Recipes</title>
+    <link>http://michaelscoggins.github.io/hugo-recipes/breakfast/</link>
+    <description>Recent content in Breakfasts on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Mike Scoggins - All rights reserved</copyright>
+    <lastBuildDate>Sat, 23 Jul 2022 07:40:48 -0500</lastBuildDate><atom:link href="http://michaelscoggins.github.io/hugo-recipes/breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joy&#39;s Easy Banana Bread</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/breakfast/joys-easy-banana-bread/</link>
+      <pubDate>Sat, 23 Jul 2022 07:40:48 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/breakfast/joys-easy-banana-bread/</guid>
+      <description>Original recipe yields 10 servings
+Ingredients Directions 3 ripe bananas, mashed Step 1 1 cup white sugar Preheat oven to 325 degrees F (165 degrees C).</description>
+    </item>
+    
+    <item>
+      <title>Perfect Summer Fruit Salad</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/breakfast/perfect-summer-fruit-salad/</link>
+      <pubDate>Sat, 23 Jul 2022 07:40:13 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/breakfast/perfect-summer-fruit-salad/</guid>
+      <description>Original recipe yields 10 servings
+Ingredients Directions ⅔ cup fresh orange juice Step 1 ⅓ cup fresh lemon juice Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat.</description>
+    </item>
+    
+    <item>
+      <title>Classic Waffles</title>
+      <link>http://michaelscoggins.github.io/hugo-recipes/breakfast/classic-waffles/</link>
+      <pubDate>Sat, 23 Jul 2022 07:39:41 -0500</pubDate>
+      
+      <guid>http://michaelscoggins.github.io/hugo-recipes/breakfast/classic-waffles/</guid>
+      <description>Original recipe yields 5 servings
+Ingredients Directions 2 cups all-purpose flour Step 1 1 teaspoon salt In a large bowl, mix together flour, salt, baking powder and sugar; set aside.</description>
+    </item>
+    
+  </channel>
+</rss>
